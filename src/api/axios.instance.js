@@ -1,7 +1,7 @@
 import axios, { AxiosError } from 'axios'
 
 const axiosInstance = axios.create({
-    baseURL: `${import.meta.env.VITE_BASE_API_URL}/api`,
+    baseURL: `http://localhost:9191/api`,
     headers: {
         'Content-Type': 'application/json',
     },
