@@ -3,9 +3,8 @@
 Project is written with Options API, because there were no requirement in test task requirement, though i prefer to use Composition API.
 Moreoften, teams if it needed, define it in test tasks, if they really need Composition API.
 
-# test-task-hicaliber-frontend-app
-
-This template should help get you started developing with Vue 3 in Vite.
+BEFORE RUNNING: Please, make sure that backend app is running on port 9191, or set any other port in which it runs.
+the server app url is hardcoded in the app, for sake of simplicity, though it should be in .env file in any real project.
 
 
 ## Project Setup
